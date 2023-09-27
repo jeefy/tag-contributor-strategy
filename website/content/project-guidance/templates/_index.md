@@ -7,7 +7,7 @@ weight: 10
 description: >
   Jump start your CNCF project by using our templates
 aliases:
-- /maintainers/github/templates/
+- /project-guidance/github/templates/
 ---
 
 We have a [project template] repository that has templates for everything your project needs

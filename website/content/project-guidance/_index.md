@@ -1,7 +1,7 @@
 
 ---
 title: "Project Guidance"
-linkTitle: "Maintainers"
+linkTitle: "Project Guidance"
 weight: 30
 menu:
   main:

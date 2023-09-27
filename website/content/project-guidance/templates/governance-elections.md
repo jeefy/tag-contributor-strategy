@@ -5,7 +5,7 @@ date: 2022-09-15
 draft: false
 weight: 32
 aliases:
-- /maintainers/github/templates/required/governance-elections
+- /project-guidance/github/templates/required/governance-elections
 ---
 
 | Audience of this HowTo | Audience of The Document    | Required by CNCF      |

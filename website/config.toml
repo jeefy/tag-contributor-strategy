@@ -54,15 +54,15 @@ pygmentsStyle = "tango"
 
   [[module.mounts]]
     source = "layouts/docs"
-    target = "layouts/contributors"
+    target = "layouts/beginners"
 
   [[module.mounts]]
     source = "layouts/docs"
-    target = "layouts/maintainers"
+    target = "layouts/project-guidance"
 
   [[module.mounts]]
     source = "layouts/videos"
-    target = "layouts/resources"
+    target = "layouts/about"
 
   [[module.mounts]]
     source = "data"

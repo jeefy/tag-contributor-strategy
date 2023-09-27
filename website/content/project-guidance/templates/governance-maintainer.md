@@ -5,7 +5,7 @@ date: 2022-12-02
 draft: false
 weight: 31
 aliases:
-- /maintainers/github/templates/required/governance-maintainer
+- /project-guidance/github/templates/required/governance-maintainer
 ---
 
 | Audience of this HowTo | Audience of The Document    | Required by CNCF      |

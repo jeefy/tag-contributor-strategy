@@ -1,6 +1,6 @@
 ---
 title: Contribute to the CNCF Ecosystem
-linkTitle: "Contributors"
+linkTitle: "Beginners"
 menu:
   main:
     weight: 20

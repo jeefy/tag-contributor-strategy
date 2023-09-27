@@ -5,7 +5,7 @@ date: 2022-12-02
 draft: false
 weight: 13
 aliases:
-- /maintainers/github/templates/required/maintainers
+- /project-guidance/github/templates/required/maintainers
 ---
 
 | Audience of this HowTo | Audience of CONTRIBUTING.md | Required by CNCF |

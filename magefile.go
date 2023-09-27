@@ -14,11 +14,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/carolynvs/magex/pkg"
-	"github.com/carolynvs/magex/shx"
-	"github.com/carolynvs/magex/xplat"
 	"github.com/magefile/mage/mg"
 	"github.com/pkg/errors"
+	"github.com/uwu-tools/magex/pkg"
+	"github.com/uwu-tools/magex/shx"
+	"github.com/uwu-tools/magex/xplat"
 )
 
 var (
